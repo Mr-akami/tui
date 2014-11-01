@@ -1,3 +1,5 @@
+//ƒRƒƒ“ƒg‚¾‚æ
+
 #include <iostream>
 #include <stdio.h>
 
